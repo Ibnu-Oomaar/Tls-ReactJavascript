@@ -1,5 +1,5 @@
-// import Navbar from "./components/navbar";
-import Sidebar from "./components/asidebar";
+// // import Navbar from "./components/navbar";
+// import Sidebar from "./components/asidebar";
 // import WelcomeCard from "./components/welcome";
 
 import Page from "./page";
